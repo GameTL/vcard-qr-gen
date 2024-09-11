@@ -275,8 +275,5 @@
     </div>
 </div>
 
-<style>
-    /* Custom Styles (if any) can go here */
-</style>
 
 
